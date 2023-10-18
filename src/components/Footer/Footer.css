@@ -1,0 +1,88 @@
+.main{
+    height:150px;
+    width:98%;
+}
+.upper{
+    display: flex;
+    justify-content: space-between;
+}
+.upper-right span{
+    font-size: 12px;
+    color: rgb(112, 109, 109);
+}
+
+#icon{
+     position:absolute;
+     right:87px;
+     top:607px;
+     font-size: 8px;
+     color: black;
+     font-weight: bold;
+}
+.container{
+    height:100px;
+}
+.container span{
+    font-size: 10px;
+    color: rgb(71, 70, 70);
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+}
+.middle-right span{
+    margin: 0px 15px 0px 45px;
+}
+.arrow{
+    margin: 0px 34px 0px 112px;;
+}
+.lower-container{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-container span{
+    margin-left: 10px;
+}
+.img-container img{
+    float: left;
+    height:30px;
+    border-radius: 50px;
+}
+.img-text{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    margin:0px 0px 0px 10px;
+}
+.d3_text{
+    font-size: 20px;
+    font-weight: bold;
+}
+.lower-right{
+display:flex;
+margin-right: 38px;
+}
+
+.price{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+  margin-right: 68px;
+}
+.stock{
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 45px;
+}
+.sale{
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+}
+hr{
+    margin: 0px;
+}
